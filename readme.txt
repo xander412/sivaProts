@@ -11,5 +11,4 @@ Using the application:
 2.To only change the apllication's icon,browse the custom image by clicking on the browse button and selecting the image.You can use (.png, .jpg, .jpeg, .svg) icons..
 3.To select the application that you want to cutomize double click on the application in the listbox on the left side or pressing enter.
 4.You must provide correct system password.
-You are using this application at your own risk.
 -------------------------------------------------------
