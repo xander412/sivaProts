@@ -1,3 +1,7 @@
+Credits :
+  | Gudditi Manjunath
+  | Chintha SivaPrasad
+
 ----------------------------------------------
 Opening the application:
 1.After extracting the zip folder, give permisison to "main" file as "Allow file as executing Program".
